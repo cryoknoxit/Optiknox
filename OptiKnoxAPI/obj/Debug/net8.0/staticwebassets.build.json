@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "uEOtLuksuH9xoLr5tTdUSXRgecF/bnBrN3QyCxdpUTQ=",
+  "Source": "OptiKnoxAPI",
+  "BasePath": "_content/OptiKnoxAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OptiKnoxAPI\\wwwroot",
+      "Source": "OptiKnoxAPI",
+      "ContentRoot": "C:\\Projects\\Development\\Dotnet\\1003-OptiKnox\\OptiKnoxAPI\\OptiKnoxAPI\\wwwroot\\",
+      "BasePath": "_content/OptiKnoxAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projects\\Development\\Dotnet\\1003-OptiKnox\\OptiKnoxAPI\\OptiKnoxAPI\\wwwroot\\images\\EPFOCHangeDetails.PNG",
+      "SourceId": "OptiKnoxAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\Development\\Dotnet\\1003-OptiKnox\\OptiKnoxAPI\\OptiKnoxAPI\\wwwroot\\",
+      "BasePath": "_content/OptiKnoxAPI",
+      "RelativePath": "images/EPFOCHangeDetails.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\EPFOCHangeDetails.PNG"
+    },
+    {
+      "Identity": "C:\\Projects\\Development\\Dotnet\\1003-OptiKnox\\OptiKnoxAPI\\OptiKnoxAPI\\wwwroot\\images\\logout.png",
+      "SourceId": "OptiKnoxAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\Development\\Dotnet\\1003-OptiKnox\\OptiKnoxAPI\\OptiKnoxAPI\\wwwroot\\",
+      "BasePath": "_content/OptiKnoxAPI",
+      "RelativePath": "images/logout.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logout.png"
+    },
+    {
+      "Identity": "C:\\Projects\\Development\\Dotnet\\1003-OptiKnox\\OptiKnoxAPI\\OptiKnoxAPI\\wwwroot\\images\\Org1",
+      "SourceId": "OptiKnoxAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\Development\\Dotnet\\1003-OptiKnox\\OptiKnoxAPI\\OptiKnoxAPI\\wwwroot\\",
+      "BasePath": "_content/OptiKnoxAPI",
+      "RelativePath": "images/Org1",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Org1"
+    }
+  ]
+}

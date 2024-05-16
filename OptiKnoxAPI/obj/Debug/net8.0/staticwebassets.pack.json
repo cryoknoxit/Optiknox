@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\Development\\Dotnet\\1003-OptiKnox\\OptiKnoxAPI\\OptiKnoxAPI\\wwwroot\\images\\EPFOCHangeDetails.PNG",
+      "PackagePath": "staticwebassets\\images\\EPFOCHangeDetails.PNG"
+    },
+    {
+      "Id": "C:\\Projects\\Development\\Dotnet\\1003-OptiKnox\\OptiKnoxAPI\\OptiKnoxAPI\\wwwroot\\images\\Org1",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Projects\\Development\\Dotnet\\1003-OptiKnox\\OptiKnoxAPI\\OptiKnoxAPI\\wwwroot\\images\\logout.png",
+      "PackagePath": "staticwebassets\\images\\logout.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OptiKnoxAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OptiKnoxAPI.props",
+      "PackagePath": "build\\OptiKnoxAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OptiKnoxAPI.props",
+      "PackagePath": "buildMultiTargeting\\OptiKnoxAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OptiKnoxAPI.props",
+      "PackagePath": "buildTransitive\\OptiKnoxAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
